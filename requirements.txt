@@ -1,0 +1,5 @@
+opencv-python
+depthai
+numpy <3.0
+open3d
+mediapipe
